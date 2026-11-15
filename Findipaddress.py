@@ -75,4 +75,3 @@ while True:
         print("НЕИЗВЕСТНОЕ ЗНАЧЕНИЕ. РАБОТА ЗАВЕРШЕНА!!!")
         break
 
-# test git diff
