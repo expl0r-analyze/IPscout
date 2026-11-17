@@ -10,3 +10,6 @@ Please don t use that util in for malicious purposes. This tool was created SOLE
 Before using util you can make this file executable 
 ```chmod +x /IPscout/Findipaddress.py``` 
 work only from the project root!
+
+# UPDATE 1.1
+Add folder where are located mainutils
